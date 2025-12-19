@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MedInsight - Hospital Review Analyzer",
+  "description": "A professional-grade healthcare feedback analysis platform that uses Gemini AI to perform sentiment analysis, categorize patient complaints, and provide actionable quality improvement suggestions from medical reviews.",
+  "requestFramePermissions": []
+}
